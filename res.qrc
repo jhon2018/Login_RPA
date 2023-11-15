@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="images">
+    <file>passwdr.png</file>
+    <file>user.png</file>
+    <file>cerrar_1.png</file>
+    <file>cerrar.png</file>
+    <file>background.jpg</file>
+    <file>BotRPA_00001.png</file>
+    <file>FondoRPA.png</file>
+  </qresource>
+</RCC>
